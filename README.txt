@@ -1,0 +1,3 @@
+1. File "project" is the front-end part of the project. Users need to run it in the terminal with all the packages installed. 
+2. File "datavisual" is the back-end part of the project. Users need to run de file "DatavisualApplication.java" in paht "src\main\java\com\biaoge\datavisual". The required envirionments are JDK1.8, SpringBoot2.1.x, apache-maven-3.5.2.
+3. File "datavisual.sql" is used for creating the database and table to store user information. Users need to run it beforehand.. The required environment is mysql5.7. 
